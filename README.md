@@ -1,16 +1,22 @@
-## Hi there 👋
+## Olá, meu nome é Vinicius Barroso!
 
-<!--
-**viniciusbn18/viniciusbn18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente, estou focado em aprender Java e Estruturas de Dados, com o objetivo de me aprofundar em Spring Boot em breve. Estou em busca de um estágio para aplicar meus conhecimentos, aprender na prática e crescer na área de tecnologia.
 
-Here are some ideas to get you started:
+- Tecnologias que estou estudando no momento:
+  
+  - Java (Orientação a Objetos)
+  - Estrutura de Dados (Estruturas Lienares e Estruturas em Árvore)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Minhas Skills
+
+<img height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+          
+
+
+---
+
+## ⭐ GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbn18&layout=compact&theme=dracula)
+
