@@ -8,7 +8,7 @@ Olá sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente, estou 
   - Estrutura de Dados (Estruturas Lienares e Estruturas em Árvore)
 
 
-## 🚀 Minhas Skills
+## 🚀 Minhas Skills até o momento:
 
 <img height="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
           
