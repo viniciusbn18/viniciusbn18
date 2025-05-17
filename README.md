@@ -1,6 +1,6 @@
-## Olá, meu nome é Vinicius Barroso!
+## Olá, meu nome é Vinicius Barroso
 
-Olá sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente, estou focado em aprender Java e Estruturas de Dados, com o objetivo de me aprofundar em Spring Boot em breve. Estou em busca de um estágio para iniciar minha carreira em tecnologia.
+Olá, sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente, estou focado em aprender Java e Estruturas de Dados, com o objetivo de me aprofundar em Spring Boot em breve. Estou em busca de um estágio para iniciar minha carreira em tecnologia.
 
 - Tecnologias que estou estudando no momento:
   
